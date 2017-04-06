@@ -2,7 +2,7 @@
 /*Created by: Vineesh Ravindran
   Date		: 03/26/2017
   Purpose   : To understand the provided weighted quick union algorithm
-   			  library by using it on Percolation as part of the Coursera Algorithms course
+Made some changes   			  library by using it on Percolation as part of the Coursera Algorithms course
 */
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
